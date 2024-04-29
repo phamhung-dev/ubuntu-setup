@@ -1,0 +1,30 @@
+{
+    "material-icon-theme.folders.theme": "specific",
+    "editor.fontFamily": "'ProfontWindows Nerd Font'",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.fontSize": 16,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorCustomizations": {
+        "editorSuggestWidget.background": "#22262e",
+        "editorSuggestWidget.foreground": "#abb2bf",
+        "editorSuggestWidget.border": "#5c6370",
+        "editorSuggestWidget.selectedBackground": "#236fae",
+        "editorSuggestWidget.selectedForeground": "#abb2bf",
+        "editorSuggestWidget.highlightForeground": "#61afef",
+        "editorSuggestWidget.focusHighlightForeground": "#d19a66"
+    },
+    "window.zoomLevel": 2,
+    "explorer.compactFolders": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false
+    },
+    "redhat.telemetry.enabled": true,
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.defaultProfile.linux": "zsh"
+}
